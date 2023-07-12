@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(205, 255, 203);
+    text-align: justify;
+
+}
+ 
+#Principal{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: green;
+}
+
+.título{ 
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: rgb(3, 29, 3);
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.562);
+    padding: auto;
+}
+.basico{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: green;
+}
+
+.intermediario{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(142, 165, 42);
+}   
+
+.avancado{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(128, 51, 0);
+}
+
+.destaque{
+    background-color: rgba(162, 190, 104, 0.637);
+}
